@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java and Kotlin
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate on Android Projects
-- 📫 How to reach me pragyaSingh959@gmail.com
+- 📫 How to reach me https://www.linkedin.com/in/pragya-singh369/
 
 <!---
 pragyaSingh13/pragyaSingh13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

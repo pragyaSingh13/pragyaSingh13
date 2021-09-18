@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @pragyaSingh13
 - 📫 How to reach me pragyasingh959@gmail.com
+- Twitter: @RuntimeTerror39
 
 <!---
 pragyaSingh13/pragyaSingh13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

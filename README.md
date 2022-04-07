@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [Pomodori](https://github.com/pragyaSingh13/Pomodori)
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👯 I’m looking to collaborate on **Android and Front End Projects**
+- 👯 I’m looking to collaborate on **Android and .NET Projects**
 
 - 📫 How to reach me **pragyasingh959@gmail.com**
 
-- ⚡ Fun fact **I also like to do painting**
+- ⚡ Fun fact **I like to make painting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
